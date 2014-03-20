@@ -37,6 +37,6 @@ hav.start([51.344365,0.733463])
 .on('success',function(res){
 	console.log('Your haversine is '+res);
 })
-.hav.calculate();
+.calculate();
 
 ```
